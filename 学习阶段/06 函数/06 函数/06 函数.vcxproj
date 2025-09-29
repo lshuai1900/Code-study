@@ -125,6 +125,14 @@
   <ItemGroup>
     <ClCompile Include="01 函数的定义.cpp" />
     <ClCompile Include="02 函数的调用.cpp" />
+    <ClCompile Include="03 值传递.cpp" />
+    <ClCompile Include="04 函数的参见样式.cpp" />
+    <ClCompile Include="05 函数的声明.cpp" />
+    <ClCompile Include="06 函数的分文件编写.cpp" />
+    <ClCompile Include="swap.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="swap.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -11,7 +11,7 @@ int add(int a, int b)
 
 
 
-int main() {
+int main2() {
 	//main函数的调用add函数
 	int num1 = 10;
 	int num2 = 20;
