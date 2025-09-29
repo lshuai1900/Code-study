@@ -27,5 +27,11 @@
     <ClCompile Include="04 元素逆置.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="05 冒泡排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06 二维数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
