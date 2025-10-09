@@ -33,5 +33,11 @@
     <ClCompile Include="06 指针与数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="07 指针与函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08 指针、数组、函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
