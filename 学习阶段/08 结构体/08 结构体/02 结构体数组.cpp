@@ -10,7 +10,7 @@ struct Student {
 };
 
 //通过学生类型创建具体学生
-int main()
+int main2()
 {
 	struct Student stuarr[3]=
 	{
