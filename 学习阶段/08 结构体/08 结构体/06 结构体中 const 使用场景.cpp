@@ -16,7 +16,7 @@ void printStudent(const student *stu) //const修饰stu 只能读不能改
 }
 
 
-int main()
+int main6()
 {
 	student stu = { "张三",18,100 };
 
