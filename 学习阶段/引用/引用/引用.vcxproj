@@ -126,6 +126,9 @@
     <ClCompile Include="01 引用的基本使用.cpp" />
     <ClCompile Include="02 引用的注意事项.cpp" />
     <ClCompile Include="03 引用做函数参数.cpp" />
+    <ClCompile Include="04 引用做函数返回值.cpp" />
+    <ClCompile Include="05 引用的本质.cpp" />
+    <ClCompile Include="06 常量引用.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

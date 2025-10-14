@@ -31,7 +31,7 @@ void mySwap03(int &a,int &b)
 }
 
 
-int main()
+int main3()
 {
 	int a = 10;
 	int b = 20;
