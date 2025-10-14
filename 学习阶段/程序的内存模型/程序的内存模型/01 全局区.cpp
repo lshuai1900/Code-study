@@ -8,7 +8,7 @@ int g_b = 10;
 const int c_g_a = 10;
 const int c_g_b = 10;
 
-int main()
+int main1()
 {
 
 	//全局区
@@ -38,7 +38,7 @@ int main()
 	cout << "字符串常量的地址：" << (int)&"hello world" << endl;
 
 	//const修饰的常量
-	//const修饰的全局变量
+	//const修饰的全局变量（全局常量）
 	cout << "全局常量c_g_a的地址：" << (int)&c_g_a << endl;
 	cout << "全局常量c_g_b的地址：" << (int)&c_g_b << endl;
 
