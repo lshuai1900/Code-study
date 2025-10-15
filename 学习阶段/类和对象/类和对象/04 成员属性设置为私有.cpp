@@ -50,7 +50,7 @@ private:
 };
 
 
-int main()
+int main4()
 {
 	person1 p1;
 

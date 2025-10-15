@@ -128,6 +128,7 @@
     <ClCompile Include="02 封装的意义 2.cpp" />
     <ClCompile Include="03 struct和class区别.cpp" />
     <ClCompile Include="04 成员属性设置为私有.cpp" />
+    <ClCompile Include="05 封装案例-立方体.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
