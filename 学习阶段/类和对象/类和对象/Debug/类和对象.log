@@ -1,3 +1,5 @@
-﻿  05 封装案例-立方体.cpp
-D:\Code\Code-study\学习阶段\类和对象\类和对象\05 封装案例-立方体.cpp(75,1): warning C4715: “isSame”: 不是所有的控件路径都返回值
-  类和对象.vcxproj -> D:\Code\Code-study\学习阶段\类和对象\Debug\类和对象.exe
+﻿  06 封装案例-点与圆的关系.cpp
+  circle.cpp
+  point.cpp
+  正在生成代码...
+  类和对象.vcxproj -> D:\Tencent\Code-study\学习阶段\类和对象\Debug\类和对象.exe

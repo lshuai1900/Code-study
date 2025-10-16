@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Code\\Code-study\\\u5B66\u4E60\u9636\u6BB5\\\u7C7B\u548C\u5BF9\u8C61\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{DF94F8AE-D9F2-4EB5-8DF9-62F7C6ABAF82}|\u7C7B\u548C\u5BF9\u8C61\\\u7C7B\u548C\u5BF9\u8C61.vcxproj|D:\\Code\\Code-study\\\u5B66\u4E60\u9636\u6BB5\\\u7C7B\u548C\u5BF9\u8C61\\\u7C7B\u548C\u5BF9\u8C61\\05 \u5C01\u88C5\u6848\u4F8B-\u7ACB\u65B9\u4F53.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DF94F8AE-D9F2-4EB5-8DF9-62F7C6ABAF82}|\u7C7B\u548C\u5BF9\u8C61\\\u7C7B\u548C\u5BF9\u8C61.vcxproj|solutionrelative:\u7C7B\u548C\u5BF9\u8C61\\05 \u5C01\u88C5\u6848\u4F8B-\u7ACB\u65B9\u4F53.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\Tencent\\Code-study\\\u5B66\u4E60\u9636\u6BB5\\\u7C7B\u548C\u5BF9\u8C61\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,20 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "05 \u5C01\u88C5\u6848\u4F8B-\u7ACB\u65B9\u4F53.cpp",
-              "DocumentMoniker": "D:\\Code\\Code-study\\\u5B66\u4E60\u9636\u6BB5\\\u7C7B\u548C\u5BF9\u8C61\\\u7C7B\u548C\u5BF9\u8C61\\05 \u5C01\u88C5\u6848\u4F8B-\u7ACB\u65B9\u4F53.cpp",
-              "RelativeDocumentMoniker": "\u7C7B\u548C\u5BF9\u8C61\\05 \u5C01\u88C5\u6848\u4F8B-\u7ACB\u65B9\u4F53.cpp",
-              "ToolTip": "D:\\Code\\Code-study\\\u5B66\u4E60\u9636\u6BB5\\\u7C7B\u548C\u5BF9\u8C61\\\u7C7B\u548C\u5BF9\u8C61\\05 \u5C01\u88C5\u6848\u4F8B-\u7ACB\u65B9\u4F53.cpp",
-              "RelativeToolTip": "\u7C7B\u548C\u5BF9\u8C61\\05 \u5C01\u88C5\u6848\u4F8B-\u7ACB\u65B9\u4F53.cpp",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAqwHYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-15T01:21:24.755Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
