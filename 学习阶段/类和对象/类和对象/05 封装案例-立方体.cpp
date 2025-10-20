@@ -75,7 +75,7 @@ bool isSame(Cube &c1, Cube &c2)
 }
 
 
-int main()
+int main5()
 {
 	Cube c1;
 	c1.setL(10);
