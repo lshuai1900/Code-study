@@ -61,7 +61,7 @@ void test402()
 
 
 
-int main()
+int main4()
 {
 	test401();
 
