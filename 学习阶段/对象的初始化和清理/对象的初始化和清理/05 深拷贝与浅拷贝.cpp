@@ -8,32 +8,48 @@ public:
 	{
 		cout << "Person的默认构造函数调用" << endl;
 	}
-	Person(int age)
+
+	Person(int age,int height)
 	{
 		m_Age = age;
+		m_Height = new int(height);
 		cout << "Person的有参构造函数调用" << endl;
+	}
+
+	Person(const Person & p)
+	{
+		cout << "Person 拷贝函数调用" << endl;
+		m_Age = p.m_Age;
+
+		m_Height = new int(*p.m_Height);
 	}
 
 	~Person()
 	{
-		
+		//析构代码 将堆区开辟数据做释放操作
+		if (m_Height != NULL)
+		{
+			delete m_Height;
+			m_Height = NULL;
+		}
 		cout << "Person的析构构造函数调用" << endl;
 	}
 
 	int m_Age;
+	int* m_Height;
 };
 
 void test501()
 {
-	Person p1(18);
-	cout << "p1的年龄为：" << p1.m_Age << endl;
+	Person p1(18, 160);
+	cout << "p1的年龄为：" << p1.m_Age << "身高：" << *p1.m_Height << endl;
 
 	Person p2(p1);
-	cout << "p2的年龄为：" << p1.m_Age << endl;
+	cout << "p2的年龄为：" << p1.m_Age << "身高：" << *p1.m_Height << endl;
 }
 
 
-int main()
+int main5()
 {
 	test501();
 
