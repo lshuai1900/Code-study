@@ -1,0 +1,5 @@
+﻿  03 空指针访问成员函数.cpp
+  04 const修饰成员函数.cpp
+D:\Code\Code-study\学习阶段\C++对象模型和this指针\C++对象模型和this指针\04 const修饰成员函数.cpp(43,15): warning C4269: “p”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+  正在生成代码...
+  C++对象模型和this指针.vcxproj -> D:\Code\Code-study\学习阶段\C++对象模型和this指针\Debug\C++对象模型和this指针.exe
