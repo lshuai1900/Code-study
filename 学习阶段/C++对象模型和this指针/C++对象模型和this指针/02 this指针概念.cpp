@@ -45,7 +45,7 @@ void test202()
 	cout << "p2 age = " << p2.age << endl;
 }
 
-int main()
+int main2()
 {
 	//test201();
 	test202();
