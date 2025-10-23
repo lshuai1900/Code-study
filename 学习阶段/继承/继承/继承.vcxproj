@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="01 继承的基本语法.cpp" />
     <ClCompile Include="02 继承方式.cpp" />
+    <ClCompile Include="03 继承中的对象原理.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
